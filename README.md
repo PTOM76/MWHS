@@ -1,0 +1,2 @@
+# MultiWebHookSpammer
+Spammerとか書いてますが、ただ単にDiscordのWebHookを数回送信するだけの利用規約は破ってないツールです。
